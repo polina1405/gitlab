@@ -1,2 +1,1 @@
-My Project
-Первая версия
+# My Project
